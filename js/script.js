@@ -1,8 +1,8 @@
 "use strict";
 var ctx, canvas;
 var randomNumbers;
-var interval = 250;
-var chosenLength = 20000;
+var interval = 400;
+var chosenLength = 50000;
 var maxVal = 360;
 var sideLength;
 
